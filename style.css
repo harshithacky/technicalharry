@@ -1,0 +1,54 @@
+.bgimg{
+	background-image: url('img.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 700px;
+}
+
+.headerset{
+	padding-top: 12.6rem;
+	box-sizing: border-box;
+}
+
+.headerset h2{
+	font-size: 38px;
+}
+
+.headerset h1{
+	font-size: 56px;
+	font-weight: bold;
+}
+
+/*SERVICES*/
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+}
+
+.ourservices h1{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+
+.ourservices h2{
+	font-size: 30px;
+}
+
+.rowservice{
+	margin: 110px 0px;
+}
+
+.imgsetting{
+	border-radius: 50%;
+	height: 70px;
+	width: 70px;
+}
+
+.rowservice p{
+	padding: 10px;
+	color: #7e7474;
+}
+
+/*Portfolio*/
